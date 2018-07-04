@@ -4,7 +4,7 @@ John
 ## Quando você nasceu?
 00/00/0000
 
-## Como está se sentido hoje?
+## Como está se sentindo hoje?
 - Feliz
 - Triste
 - Ansioso(a)
