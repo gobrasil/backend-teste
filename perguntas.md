@@ -11,8 +11,8 @@ John
 100kg
 
 ## Como está se sentido hoje?
-Feliz
-Triste
-Ansioso
-Estressado
-esanimado
+- Feliz
+- Triste
+- Ansioso(a)
+- Estressado(a)
+- Desanimado(a)
