@@ -1,5 +1,5 @@
 ## Desafio
-Precisamos criar um amigo virtual que irá conversar com os usuários para entender suas dores, para isso vamos fazer algumas perguntas estratégicas. Seu desafio é criar endpoints para cada pergunta, analisar essas respostas e gravar em um banco de dados o perfil desse usuario de acordo com cada resposta.
+Precisamos criar um amigo virtual que irá conversar com os usuários para entender suas dores, para isso vamos fazer algumas (perguntas estratégicas)[https://github.com/ukorbr/backend-teste/blob/master/perguntas.md]. Seu desafio é criar endpoints para cada pergunta, analisar essas respostas e gravar em um banco de dados o perfil desse usuario de acordo com cada resposta.
 
 Por fim precisamos de mais 2 endpoints que irá retornar os usuários pelos seguintes grupos:
 
