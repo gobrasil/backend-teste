@@ -16,7 +16,7 @@ Por fim precisamos de mais 2 endpoints que irá retornar os usuários pelos segu
 - Idosos acima de 51 anos
 
 ## Como deve ser feito
-Você pode utilizar qualquer linguagem e banco de dados de sua preferência, mas vamos ter um carinho maior se você utilizar Golang e Postgre ❤️ Porém precisamos que deixei tudo montado em uma imagem no Docker. 
+Você pode utilizar qualquer linguagem e banco de dados de sua preferência, mas vamos ter um carinho maior se você utilizar Golang e Postgre ❤️ Porém precisamos que deixe tudo montado em uma imagem no Docker. Seja esperto e previna erros de escrita e tipos de dados
 
 ## Como entregar o resultado
 Publique seu código aberto no seu Github, depois vá nas [issues](https://github.com/ukorbr/backend-teste/issues) desse repositório e envie seu teste para que nossos ninjas possam analisar. Lembre-se de revisar tudo antes.
